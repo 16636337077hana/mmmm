@@ -1,5 +1,4 @@
-https://github.com/16636337077hana/mmmm/blob/main/4.2-1%E5%8E%9F%E5%A7%8B%E9%9C%80%E6%B1%82%E8%A1%A8.png
-![图片描述](./images/cover-image.png)
+![图片](https://github.com/16636337077hana/mmmm/blob/main/4.2-1%E5%8E%9F%E5%A7%8B%E9%9C%80%E6%B1%82%E8%A1%A8.png)
 
 !!! note 语言选择
     中文 |  [English](https://gcd4fe.bnu.edu.cn/)
