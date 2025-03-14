@@ -1,4 +1,4 @@
-https://github.com/16636337077hana/images/4.2-1原始需求表.png
+
 <p style="font-size: 2.0em; color: blue; font-weight: bold;">专家寄语
 
 - **顾明远**：教育是未来的事业，是为未来培养人才。我们要通过培养学生的批判性思维、创造性思维、实践性思维，适应时代的变化。
